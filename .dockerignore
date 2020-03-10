@@ -1,0 +1,3 @@
+*
+!android-*
+!wabt-sys/target/aarch64-linux-android/debug/deps/wabt_sys*

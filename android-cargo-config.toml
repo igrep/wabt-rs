@@ -1,0 +1,8 @@
+[target.aarch64-linux-android]
+ar = "/android/ndk/android-ndk-r20b/toolchains/llvm/prebuilt/linux-x86_64/bin/aarch64-linux-android-ar"
+linker = "/home/igrep/opt/android/ndk/android-ndk-r20b/toolchains/llvm/prebuilt/linux-x86_64/bin/aarch64-linux-android28-clang++"
+#runner = "/android/android-run.sh"
+
+[target.x86_64-linux-android]
+ar = "/home/igrep/opt/android/ndk/android-ndk-r20b/toolchains/llvm/prebuilt/linux-x86_64/bin/x86_64-linux-android-ar"
+linker = "/home/igrep/opt/android/ndk/android-ndk-r20b/toolchains/llvm/prebuilt/linux-x86_64/bin/x86_64-linux-android28-clang++"
